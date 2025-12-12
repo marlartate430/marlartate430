@@ -22,8 +22,8 @@ While I study, I like to carry out some personal projects on my own, which are u
 
 * **Technologies I'm comfortable with**:<br>
 <img src="https://www.pygame.org/docs/_static/pygame_logo.svg" width="100" alt="Pygame Logo" /><br>
-[![My Skills](https://skillicons.dev/icons?i=eclipse,java,py,git&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py&perline=6)](https://skillicons.dev)
 
 * **Techonologies I'm learning**:<br>
 <img src="https://www.libsdl.org/media/SDL_logo_b.png" width="100" alt="SDL Logo" /><br>
-[![My Skills](https://skillicons.dev/icons?i=c,linux,debian,ubuntu,vim,bash,md&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,java,eclipse,git,linux,debian,ubuntu,vim,bash,md&perline=6)](https://skillicons.dev)
